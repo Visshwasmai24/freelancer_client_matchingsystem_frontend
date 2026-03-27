@@ -2,7 +2,7 @@
 
 A React + Vite frontend for the Freelancer-Client Matching Platform. Connects clients with the right freelancers based on skill matching.
 
-🔗 **Live Demo:** [freelancer-client-matchingsystem-fr.vercel.app](https://freelancer-client-matchingsystem-fr.vercel.app/)
+🔗 **Live Demo:** [freelancer-client-matchingsystem-fr.vercel.app](https://freelancer-client-matchingsystem-fr.vercel.app)
 
 ---
 
